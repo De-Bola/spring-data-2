@@ -1,0 +1,15 @@
+html,
+body,
+/*#stubborn {
+  height: 100%;
+}*/
+
+#stubborn {
+  height: 100%;
+  background: url("http://getwallpapers.com/wallpaper/full/4/8/9/51090.jpg")
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
